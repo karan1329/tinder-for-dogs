@@ -1,2 +1,2 @@
 # tinder-for-dogs
-Tinder for your dogs
+Another milestone achieved. Woohoo. Finally got fluent with using the Bootstrap framework.
