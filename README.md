@@ -1,5 +1,6 @@
-# tindog - tinder for your dogs
+# tindog - tinder for your dogs (3rd)
 
 Finished building my third website.
+  - css z-indexing
   - bootstrap
-  - setting up viewpoints using @media to ensure responsiveness cross platform.
+  - hella responsive
