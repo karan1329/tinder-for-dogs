@@ -1,2 +1,5 @@
-# tinder-for-dogs
-Finally got fluent with using the Bootstrap framework. YAY.
+# tindog - tinder for your dogs
+
+Finished building my third website.
+  - bootstrap
+  - setting up viewpoints using @media to ensure responsiveness cross platform.
